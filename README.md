@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/ac623f95-62d0-4ea8-bdb5-528207650f55)
+
 # 🧰 PolicyForge – Générateur de Politiques de Sécurité IA
 
 <p align="center">
