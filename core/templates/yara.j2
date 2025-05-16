@@ -1,0 +1,7 @@
+rule SuspiciousCommand_{{ cmd | replace(" ", "_") }}
+{
+  strings:
+    $cmd = "{{ cmd }}"
+  condition:
+    $cmd
+}
