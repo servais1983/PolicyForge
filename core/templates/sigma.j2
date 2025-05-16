@@ -1,0 +1,8 @@
+title: Suspicious URI Access
+logsource:
+  product: webserver
+detection:
+  selection:
+    uri|contains: "{{ uri }}"
+  condition: selection
+level: medium
