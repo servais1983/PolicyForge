@@ -1,5 +1,5 @@
 
-![image](https://github.com/user-attachments/assets/ac623f95-62d0-4ea8-bdb5-528207650f55)
+![image](policyforge.png)
 
 # 🧰 PolicyForge – Générateur de Politiques de Sécurité IA
 
